@@ -1,2 +1,2 @@
 # React-TypeScript-Redux
-pure-code.ru
+Portfolio site pure-code.ru
