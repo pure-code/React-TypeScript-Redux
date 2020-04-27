@@ -1,0 +1,45 @@
+export default [
+  {
+    heading: 'Rockstar HTML CSS +React.JS developer ',
+    date: 'Dec 2019 - Present',
+    total: '$2,342.99',
+    hours: '$22.00 / hr',
+    type: '97 hours',
+    message: 'Job in progress',
+  },
+  {
+    heading: 'Build responsive website ',
+    date: 'Apr 2019 - May 2019',
+    total: '$350.00',
+    type: 'Fixed-price',
+    message: 'Great developer!',
+  },
+  {
+    heading: 'Adobe XD Design to HTML Templates ',
+    date: 'May 2019 - Jul 2019',
+    total: '$350.00',
+    type: 'Fixed-price',
+    message: 'Kristina has a good understanding ot the needs of the customer. That makes it very nice, to work with her.',
+  },
+  {
+    heading: 'Javascript programmer to create age verification modal ',
+    date: 'Apr 2019',
+    total: '$150.00',
+    type: ' Fixed-price ',
+    message: 'Kristina helped us write a critical piece of Javascript code for our infrastructure. The code was bug free and easy to read and maintain. I Highly recommend her for any other assignments like this.',
+  },
+  {
+    heading: 'Adobe XD art boards to clean HTML/CSS - fast turnaround required! ',
+    date: 'May 2019',
+    total: ' $320.00 ',
+    type: 'Fixed-price',
+    message: 'Would definitely work with her again. Very professional. Thank you!',
+  },
+  {
+    heading: 'HTML, CSS & JS ',
+    date: 'May 2019',
+    total: '$150.00',
+    type: 'Fixed-price',
+    message: 'Fantastic work again! Thanks Kristina :)',
+  },
+];

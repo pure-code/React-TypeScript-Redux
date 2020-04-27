@@ -1,0 +1,89 @@
+/*--- Roboto ---*/
+
+/* Regular */
+@font-face {
+  font-family: "Roboto";
+  src: url('./fonts/roboto/roboto-regular.eot');
+  src: local('Roboto'), local('Roboto-Regular'),
+  url('./fonts/roboto/roboto-regular.eot?') format('embedded-opentype'),
+  url('./fonts/roboto/roboto-regular.woff2') format('woff2'),
+  url('./fonts/roboto/roboto-regular.woff') format('woff'),
+  url('./fonts/roboto/roboto-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* Bold */
+@font-face {
+  font-family: "Roboto";
+  src: url('./fonts/roboto/roboto-bold.eot');
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+  url('./fonts/roboto/roboto-bold.eot?') format('embedded-opentype'),
+  url('./fonts/roboto/roboto-bold.woff2') format('woff2'),
+  url('./fonts/roboto/roboto-bold.woff') format('woff'),
+  url('./fonts/roboto/roboto-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* Light */
+@font-face {
+  font-family: "Roboto";
+  src: url('./fonts/roboto/roboto-light.eot');
+  src: local('Roboto Light'), local('Roboto-Light'),
+  url('./fonts/roboto/roboto-light.eot?') format('embedded-opentype'),
+  url('./fonts/roboto/roboto-light.woff2') format('woff2'),
+  url('./fonts/roboto/roboto-light.woff') format('woff'),
+  url('./fonts/roboto/roboto-light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: "Roboto";
+  src: url('./fonts/roboto/roboto-medium.eot');
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+  url('./fonts/roboto/roboto-medium.eot?') format('embedded-opentype'),
+  url('./fonts/roboto/roboto-medium.woff2') format('woff2'),
+  url('./fonts/roboto/roboto-medium.woff') format('woff'),
+  url('./fonts/roboto/roboto-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
+
+/*--- Roboto Slab ---*/
+
+@font-face {
+  font-family: "Roboto slab";
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'),
+  url('./fonts/roboto-slab/roboto-slab-regular.woff2') format('woff2'),
+  url('./fonts/roboto-slab/roboto-slab-regular.woff') format('woff'),
+  url('./fonts/roboto-slab/roboto-slab-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*--- Source Pro---*/
+
+@font-face {
+  font-family: 'Source Code Pro';
+  src: local('Source Code Pro Regular'), local('SourceCodePro-Regular'),
+  url('./fonts/source-code/source-code-pro-regular.woff2') format('woff2'),
+  url('./fonts/source-code/source-code-pro-regular.woff') format('woff'),
+  url('./fonts/source-code/source-code-pro-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
